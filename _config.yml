@@ -8,6 +8,7 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 #How to add stuff in jekyll: https://github.com/jekyll/minima/blob/master/_config.yml
+#YouTube: https://www.youtube.com/watch?v=qZsgPgGdOzQ
 
 # Layout
 show_social: true        # show site description and social links in the footer
