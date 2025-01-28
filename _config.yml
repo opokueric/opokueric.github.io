@@ -1,7 +1,7 @@
 title: "Eric Opoku"
 author: "Opoku Eric"
 description: "University of Toronto"
- email: eric.opoku@mail.utoronto.ca
+#email: eric.opoku@mail.utoronto.ca
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -25,7 +25,10 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/opokueric"}
 #  - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/eric-opoku-m-a-mphil-63b450a5"}
 #   - {title: YouTube, icon: YouTube logo, url: "https://www.youtube.com/@EricTheHealthEconomist"}
-
+ 
+ #Generate social links in footer.
+ social_links:
+ - { platform: linkedin,       user_url: "https://www.linkedin.com/in/eric-opoku-m-a-mphil-63b450a5" }
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
