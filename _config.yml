@@ -23,12 +23,30 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:eric.opoku@mail.utoronto.ca"}
   - {title: Github, icon: github, url: "https://github.com/opokueric"}
-#  - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/eric-opoku-m-a-mphil-63b450a5"}
 #   - {title: YouTube, icon: YouTube logo, url: "https://www.youtube.com/@EricTheHealthEconomist"}
  
  #Generate social links in footer.
  social_links:
  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/eric-opoku-m-a-mphil-63b450a5" }
+#  - { platform: devto,          user_url: "https://dev.to/jekyll" }
+  #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
+  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+  #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
+  #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+  #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
+  #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+  #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+  #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
+  #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
+  #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
+  #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
+  #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
+  #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
+  #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/@EricTheHealthEconomist" }
+
+
+ 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
