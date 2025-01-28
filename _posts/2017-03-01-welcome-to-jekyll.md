@@ -1,24 +1,11 @@
 ---
-title: "Welcome to Jekyll"
+title: "Eric Opoku, MA, MPhil"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome! I am a PhD Health Economics student at the University of Toronto’s Institute of Health Policy, Management and Evaluation in the Dalla Lana School of Public Health. I received my Masters in Economics from Memorial University in May 2021. I am currently a Health Economist and Health Technology Assessment associate involved in Drug submissions for reimbursement by Canada's Drug Agency-participating drug programs, private payers, and Régie de l'assurance maladie du Québec (RAMQ).
 
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+My research interests are child health, Real-World Evidence (RWE), and Health Technology Assessment. My PhD research focuses on the socioeconomic impact of preterm birth in Canada. Details about my publications, work, and teaching experience are provided in my CV.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
