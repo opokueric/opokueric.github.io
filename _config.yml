@@ -59,14 +59,13 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
   - {title:"Team", file: "page3.md"}
   - {title:"Publications", file: "page4.md"}
   - {title:"Teaching and Talks", file: "page5.md"}
   - {title:"CV", file: "page6.md"}
   - {title:"Contact", file: "page7.md"}
-
+  - {file: "codeanddata.html", sidebaricon: home}
  
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
