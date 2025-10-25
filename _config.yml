@@ -64,7 +64,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title:"Publications", file: "page4.md"}
   - {title:"Teaching", file: "page5.md"}
   - {title:"Events", file: "page6.md"}
-  - {title:"Code and Data", file: "codeanddata.html"}
+  - {title:"Resources", file: "codeanddata.html"}
   - {title:"Contact", file: "page7.md"}
 
   #- {file: "codeanddata.html", sidebaricon: home}
