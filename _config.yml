@@ -64,7 +64,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title:"Teaching", file: "page5.md"}
   - {title:"Events", file: "page6.md"}
   - {title:"Resources", file: "resources.html"}
-  - {title:"Health Innovations", file: "healthinnov.md"}
+  - {title:"Health Innovations", file: "innovandres.md"}
   - {title:"Contact", file: "page7.md"}
 
 #  - {title:"Health Innovation", file: "healthinnov.md.md", sidebaricon: address-card}
