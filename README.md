@@ -1,6 +1,6 @@
 ---
 title: "PI - Eric Opoku"
-permalink: "/about/"
+# permalink: "/about/"
 layout: page
 ---
 
