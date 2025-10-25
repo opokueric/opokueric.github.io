@@ -1,5 +1,5 @@
 ---
-title: "Talks and Media"
+title: "Events"
 layout: default
 ---
 See my CV for your perusal.
