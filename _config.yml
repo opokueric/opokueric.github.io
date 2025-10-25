@@ -1,5 +1,46 @@
 title: "Eric Opoku"
-author: "Eric Opoku"
+#author: "Eric Opoku"
+
+
+# Site Author
+
+author:
+  name             : "Eric Opoku"
+  avatar           : # "Headshot_202105.jpg"
+  bio              : "I am an Assistant Professor of Health Economics at the University of Toronto's IHPME. My research focuses on the role of information in health care, including how consumers learn about their health risks and how providers value innovations in health care."
+  location         :
+  employer         : "University of Toronto, ON, Canada"
+  googlescholar    : #"https://scholar.google.com/citations?user=Ks-_ZlIAAAAJ&hl=en"
+  email            : "eric.opoku@mail.utoronto.ca"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "opokueric"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0001-6947-3445"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : #"@Hoagland_Alex"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
+
 description: "University of Toronto"
 permalink: /:title/
 lang: "en"
