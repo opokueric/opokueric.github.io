@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "PI - Eric Opoku"
 permalink: "/about/"
 layout: page
 ---
