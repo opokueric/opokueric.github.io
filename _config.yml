@@ -62,8 +62,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
   - {title:"Team", file: "page3.md"}
   - {title:"Publications", file: "page4.md"}
-  - {title:"Teaching and Talks", file: "page5.md"}
-  - {title:"CV", file: "page6.md"}
+  - {title:"Teaching", file: "page5.md"}
+  - {title:"Talks and Media", file: "page6.md"}
   - {title:"Contact", file: "page7.md"}
   - {title:"Code and Data", file: "codeanddata.html"}
   #- {file: "codeanddata.html", sidebaricon: home}
