@@ -2,4 +2,4 @@
 title: "Events"
 layout: default
 ---
-See my CV for your perusal.
+These are some confernce attendance and presentations.
