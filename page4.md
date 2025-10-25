@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "Publications"
-permalink: /publications/
 ---
 #author_profile: true
+#permalink: /publications/
+
 These are our publications
 
 ### Publications
