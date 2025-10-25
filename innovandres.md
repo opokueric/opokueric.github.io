@@ -3,4 +3,4 @@ title: "Innovations and Research"
 layout: page
 ---
 
-These are some health innovaations.
+We are committed to providing health solutions to healthcare delivery.
