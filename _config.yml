@@ -1,46 +1,5 @@
-title: "Health Innovations Lab"
-#author: "Eric Opoku"
-#forked it from niklasbuschmann/contrast github
-#title: "Causal Inference and Machine Intelligence Lab"
-# Site Author
-
-author:
-  name             : "Eric Opoku"
-  avatar           : # "Headshot_202105.jpg"
-  bio              : "I am a PhD Health Economics student at the University of Toronto's IHPME. My current research focuses on the impact of preterm birth on the mortality and socioeconomic outcomes of children and families.  I am a Health Economist and a Teaching Assistant at the University of Toronto’s Leslie Dan School of Pharmacy. I received my M.A. in Economics from the Memorial University of Newfoundland."
-  location         :
-  employer         : "University of Toronto, ON, Canada"
-  googlescholar    : #"https://scholar.google.com/citations?user=Ks-_ZlIAAAAJ&hl=en"
-  email            : "eric.opoku@mail.utoronto.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "opokueric"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0001-6947-3445"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"@Eric_Opoku"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
-
-
+title: "HIDaC Lab"
+author: "Eric Opoku"
 description: "University of Toronto"
 permalink: /:title/
 lang: "en"
