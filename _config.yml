@@ -70,8 +70,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
  
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:eric.opoku@mail.utoronto.ca"}
-  - {title: Github, icon: github, url: "https://opokueric.github.io"}
-  - {title: LinkedIn, icon: linkedin, url: "linkedin.com/in/eric-opoku-m-a-mphil-63b450a5"}
+  - {title: Github, icon: github, url: "https://github.com/opokueric/opokueric.github.io"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/eric-opoku-m-a-mphil-63b450a5/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
