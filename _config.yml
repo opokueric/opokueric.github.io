@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Eric Opoku"
+author: "Eric Opoku"
+description: "University of Toronto"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
