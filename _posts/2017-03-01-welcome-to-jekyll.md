@@ -3,7 +3,8 @@ title: "Our Mission"
 layout: post
 ---
 
-Welcome to Causal Inference and Machine Intelligence (CIMI) Lab! It is mentioned as "see-my lab". The Causal Inference and Machine Intelligence Lab employs causal inference strategies to conduct innovative research. We use artificial intelligence to provide health innovations.
+Welcome to the Health Innovations lab! Our goal is to conduct research that innovates and provides real-world solutions.
+We employ causal inference strategies, implementation science and artificial intelligence to make impact.
 
 
 
