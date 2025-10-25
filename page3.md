@@ -7,6 +7,3 @@ Eric Opoku is a PhD Health Economics student at the University of Toronto's IHPM
 
 [Download my CV here](http://opokueric.github.io/files/My_Current_CV.pdf)
 
-<!---
-{% include base_path %}
-
