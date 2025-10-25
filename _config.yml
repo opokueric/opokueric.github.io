@@ -20,11 +20,11 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
-  - {file: "page3.md", sidebaricon: home}
-  - {file: "page4.md", sidebaricon: home}
-  - {file: "page5.md", sidebaricon: home}
-  - {file: "page6.md", sidebaricon: home}
-  - {file: "page7.md", sidebaricon: home}
+  - {title:"Team", file: "page3.md"}
+  - {title:"Publications", file: "page4.md"}
+  - {title:"Teaching", file: "page5.md"}
+  - {title:"CV", file: "page6.md"}
+  - {title:"Contact", file: "page7.md"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
