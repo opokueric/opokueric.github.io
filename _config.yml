@@ -69,9 +69,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   #- {file: "codeanddata.html", sidebaricon: home}
  
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:eric.opoku@mail.utoronto.ca"}
+  - {title: Github, icon: github, url: "https://opokueric.github.io"}
+  - {title: LinkedIn, icon: linkedin, url: "linkedin.com/in/eric-opoku-m-a-mphil-63b450a5"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
