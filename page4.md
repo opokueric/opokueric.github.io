@@ -11,7 +11,7 @@ These are our publications
 ### Replication Codes
 Each of these contains a link to a GitHub repository with replication files for the indicated project. 
 
-* ["Innovations and Inequities in Access to Medical Services"](https://github.com/opokueric/barriers_to_polio_vaccination.pdf)
+* ["What are the barriers and facilitators to polio vaccination and eradication programs? A systematic review"](https://github.com/opokueric/barriers_to_polio_vaccination.pdf)
 
 
 
