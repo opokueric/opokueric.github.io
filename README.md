@@ -1,5 +1,5 @@
 ---
-title: "PI - Eric Opoku"
+title: "Health Innovations"
 layout: page
 ---
 
