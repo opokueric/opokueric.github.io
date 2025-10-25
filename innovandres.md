@@ -1,5 +1,5 @@
 ---
-title: "Health Innovations"
+title: "Innovations and Research"
 layout: page
 ---
 
