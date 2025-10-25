@@ -1,5 +1,5 @@
 ---
 title: "Contact"
-layout: default
+layout: page
 ---
-I have taught in University of Toronto, Memorial University of Newfoundland and University of Ghana.
+You can email me at eric.opoku@mail.utoronto.ca
