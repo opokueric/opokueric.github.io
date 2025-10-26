@@ -2,4 +2,4 @@
 title: "Events"
 layout: default
 ---
-These are some confernce attendance and presentations.
+These are some conference attendance and presentations.
