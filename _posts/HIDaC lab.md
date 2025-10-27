@@ -1,6 +1,6 @@
 ---
 title: "Our Mission"
-layout: default
+layout: page
 ---
 
 Welcome to the Health Innovations and Data Curation (HIDaC) lab! Our goal is to link datasets, and conduct research that innovates and provides real-world solutions.
