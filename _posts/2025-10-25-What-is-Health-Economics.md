@@ -4,4 +4,4 @@ mathjax: true
 layout: post
 categories: media
 ---
-Health Economics is the application of  theoretical economic concepts for research, economic evaluations and policy analysis in the healthcare industry.
+Health Economics is the application of theoretical economic concepts for research, intervention evaluations and policy analysis in the healthcare industry.
