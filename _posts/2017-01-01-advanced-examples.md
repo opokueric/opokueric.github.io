@@ -1,5 +1,5 @@
 ---
-title:  "Latex News"
+title:  "Latest News"
 mathjax: true
 layout: post
 categories: media
