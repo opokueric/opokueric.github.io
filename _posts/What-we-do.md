@@ -1,6 +1,6 @@
 ---
 title:  "What we do"
-layout: post
+layout: default
 ---
 We provide services in the areas below:
 * We provide health economics training to healthcare administrators, pharmacists, physicians, nutritionists and nurses.
