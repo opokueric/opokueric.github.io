@@ -4,4 +4,4 @@ mathjax: true
 layout: post
 categories: media
 ---
-Health Economics applies economic principles, theoretical concepts and tools in the healthcare industry.
+Health Economics is the application of  theoretical economic concepts for research, economic evaluations and policy analysis in the healthcare industry.
