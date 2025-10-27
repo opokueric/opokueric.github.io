@@ -4,4 +4,4 @@ mathjax: true
 layout: post
 categories: media
 ---
-These are the grants we have secured currently.
+Health Economics applies economic principles, theoretical concepts and tools in the healthcare industry.
